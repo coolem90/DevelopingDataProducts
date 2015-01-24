@@ -1,0 +1,12 @@
+---
+title: "myStockPresentation"
+author: "Anita Lin"
+date: "Friday, January 23, 2015"
+output: html_document
+---
+
+```{r}
+setwd("E:/Course/Johns hopkins_Data Science/Developing Data Products/Project")
+library(shiny)
+runApp()
+```
